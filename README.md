@@ -165,3 +165,11 @@ What is the use of git stash?
 Use git stash when you want to record the current state of the working directory and the index, 
 but want to go back to a clean working directory. The command saves your local modifications away 
 and reverts the working directory to match the HEAD commit.
+
+What is GitHub action used for?
+
+GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform 
+that allows you to automate your build, 
+test, and deployment pipeline. 
+You can create workflows that build and test every pull request to your repository, 
+or deploy merged pull requests to production.
