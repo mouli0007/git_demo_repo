@@ -173,3 +173,11 @@ that allows you to automate your build,
 test, and deployment pipeline. 
 You can create workflows that build and test every pull request to your repository, 
 or deploy merged pull requests to production.
+
+
+What is git rebase used for?
+
+What Does Git Rebase Do? 
+A Git rebase changes the base of the developer's branch from one commit to another, 
+so it looks like they have created their branch from a different commit. Internally, 
+Git creates a new commit and applies it to the specified base.
