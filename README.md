@@ -1,6 +1,3 @@
-### BASIC GIT STEPS TO FOLLOW !
-
-
 // Git and GitHub 
 
 
@@ -9,7 +6,6 @@ maintaining the previous version and updating the new version
 
 
 GitHub => A Website to host your reposiories online
-
 
 GIT Commands !
 
@@ -50,7 +46,6 @@ cat testkey.pub => to view your public key
 pbcopy < testKey.pub=> copies to our clipboard
 
 
-
 ###########################
 #####################
 ######################
@@ -63,7 +58,6 @@ Types of Branches !
  1=> Master Branch !
  2 => Feature Branch !
 3=> Hot Fix Branch !
-
 
 
 Commands !
@@ -85,7 +79,10 @@ if u have smae code both in main and sub-branches it may overwritten)
 ####################
 #############################
 
-############# Merge Conflicts !####################
+#############Merge Conflicts !####################
 
 
+######2 ways to fix merge conflicts !
 
+1=> In Terminal
+2=>Directly in Code editor(Easiest way to do that !)
